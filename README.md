@@ -1,3 +1,3 @@
 The past inside the present 👽
 
-Currently setting up an Organization for creating amazing aplications, for both Apple and Android. 
+Currently setting up an organization for creating amazing aplications, with the main focus Apple ecosystem.
