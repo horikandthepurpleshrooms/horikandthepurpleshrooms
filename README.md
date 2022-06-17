@@ -1,3 +1,5 @@
 The past inside the present 👽
 
-Currently setting up an organization for creating amazing aplications, with the main focus on Apple ecosystem.
+<div>
+  <img width="200px" height="200px" src="https://github.com/horikffee/horikffee/blob/main/octocat-horik.png"/>
+</div>  
