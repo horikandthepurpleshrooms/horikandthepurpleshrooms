@@ -1,5 +1,1 @@
-The past inside the present 👽
-
-<div>
-  <img width="200px" height="200px" src="https://github.com/22horik/22horik/blob/main/octocat-horik.png"/>
-</div>  
+As an advocate for the future of work, I am driven by the intersection of philosophy, unyielding curiosity, and the boundless potential of technology. With a profound admiration for innovation and an unwavering eye for aesthetics, I am devoted to creating something truly extraordinary.
